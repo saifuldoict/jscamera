@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#cameraFeed{
+    border-radius: 50%;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 400px;
+}
